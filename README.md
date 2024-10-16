@@ -7,4 +7,4 @@
 ### Desafio
 - Replicar o projeto visto na aula
 
-### >> [MUNDO PERDIDO](https://jmsmarcelo.github.io/inverted-world/) <<
+### >> [MUNDO INVERTIDO](https://jmsmarcelo.github.io/inverted-world/) <<
